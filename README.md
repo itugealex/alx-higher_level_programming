@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-alx sprint two repository
+This is the beginning of the high level languages starting with python
